@@ -1,88 +1,15 @@
 {
-  "order": {},
-  "list": [],
-  "testi": [],
-  "chat": {},
-  "user": [
-    "7058216834 "
-  ],
-  "sewa": {},
-  "produk": {
-    "canva1b": {
-      "id": "canva1b",
-      "name": "Canva 1 Bulan Invite",
-      "desc": "1. Invite Via Link\n┊ 2. Full Garansi",
-      "snk": "Hanya Klik Link Lalu Gabung Ke tim",
-      "price": 3000,
-      "profit": "1000",
-      "terjual": 17901,
-      "stok": [
-        "https://www.canva.com/brand/join?token=EnsEKzo9oq1-Z6p9Y6P-Qg&referrer=team-invite",
-        "",
-        "https://www.canva.com/brand/join?token=EnsEKzo9oq1-Z6p9Y6P-Qg&referrer=team-invite",
-        "",
-        "https://www.canva.com/brand/join?token=EnsEKzo9oq1-Z6p9Y6P-Qg&referrer=team-invite",
-        "",
-        "https://www.canva.com/brand/join?token=EnsEKzo9oq1-Z6p9Y6P-Qg&referrer=team-invite"
-      ]
-    },
-    "cadmin": {
-      "id": "cadmin",
-      "name": "Canva Admin",
-      "desc": "1. Kirim Email Ke ┊@Ryuuuueen\n┊2. Full Garansi\n┊3. Admin Bisa Invite 100 Member",
-      "snk": "Kirim Emails Ke Owner",
-      "price": "6000",
-      "profit": "1000",
-      "terjual": 98763,
-      "stok": [
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen"
-      ]
-    },
-    "cowner": {
-      "id": "cowner",
-      "name": "Canva Owner",
-      "desc": "1. Full Garansi\n┊ 2. Owner Bisa Invite 500 Member\n┊ 3. Owner Bis Invite 5 Admin",
-      "snk": "Setelah Bayar Kirim Email Ke @Ryuuuueen",
-      "price": "10000",
-      "profit": "1000",
-      "terjual": 76543,
-      "stok": [
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen",
-        "kirim email ke @Ryuuuueen"
-      ]
-    }
-  },
-  "transaksi": [
+  'licenses': [
     {
-      "id": "canva1b",
-      "name": "Canva 1 Bulan Invite",
-      "price": "500",
-      "date": "2025-03-23 10:19:04",
-      "profit": "1000",
-      "jumlah": 1
+      'key': 'Itsuka',
+      'isLicensed': true
     },
     {
-      "id": "canva1b",
-      "name": "Canva 1 Bulan Invite",
-      "price": "500",
-      "date": "2025-03-23 10:21:51",
-      "profit": "1000",
-      "jumlah": 1
-    }
+      'key': 'Itsuka_',
+      'isLicensed': false
+    },
+    // ... lisensi lainnya
   ]
+}
+
 }
